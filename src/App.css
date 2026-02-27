@@ -4,7 +4,12 @@
   padding: 2rem;
   text-align: center;
 }
-
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
