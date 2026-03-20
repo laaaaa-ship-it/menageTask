@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import TaskManger from './TaskManger'
+import TaskManger from "./conponens/TaskManger";
 import './App.css'
 
 function App() {
